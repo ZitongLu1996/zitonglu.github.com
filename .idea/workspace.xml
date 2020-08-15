@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a6370f-9609-4326-a565-5f76a424f76c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV_ZitongLu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,13 +16,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="337" column="38" lean-forward="true" selection-start-line="337" selection-start-column="38" selection-end-line="337" selection-end-column="38" />
-              <folding>
-                <element signature="e#16010#16059#0" expanded="true" />
-                <element signature="e#16238#16287#0" expanded="true" />
-                <element signature="e#17032#17081#0" expanded="true" />
-                <element signature="e#17260#17309#0" expanded="true" />
-              </folding>
+              <caret line="337" column="38" selection-start-line="337" selection-start-column="38" selection-end-line="337" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -43,8 +34,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-292" />
-    <option name="y" value="-898" />
+    <option name="x" value="352" />
+    <option name="y" value="-777" />
     <option name="width" value="1254" />
     <option name="height" value="777" />
   </component>
@@ -107,17 +98,19 @@
       <option name="presentableId" value="Default" />
       <updated>1585389770870</updated>
       <workItem from="1585389772591" duration="2511000" />
-      <workItem from="1596436635385" duration="789000" />
+      <workItem from="1596436635385" duration="1093000" />
+      <workItem from="1597131377426" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3300000" />
+    <option name="totallyTimeSpent" value="3628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-292" y="-898" width="1254" height="777" extended-state="0" />
+    <frame x="352" y="-777" width="1254" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25412542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25825083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -147,13 +140,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="337" column="38" lean-forward="true" selection-start-line="337" selection-start-column="38" selection-end-line="337" selection-end-column="38" />
-          <folding>
-            <element signature="e#16010#16059#0" expanded="true" />
-            <element signature="e#16238#16287#0" expanded="true" />
-            <element signature="e#17032#17081#0" expanded="true" />
-            <element signature="e#17260#17309#0" expanded="true" />
-          </folding>
+          <caret line="337" column="38" selection-start-line="337" selection-start-column="38" selection-end-line="337" selection-end-column="38" />
         </state>
       </provider>
     </entry>
