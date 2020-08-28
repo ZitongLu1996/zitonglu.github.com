@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d1a6370f-9609-4326-a565-5f76a424f76c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV_ZitongLu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <state relative-caret-position="157">
+              <caret line="345" column="115" selection-start-line="345" selection-start-column="115" selection-end-line="345" selection-end-column="115" />
             </state>
           </provider>
         </entry>
@@ -39,14 +42,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="135" />
+    <option name="y" value="56" />
     <option name="width" value="1254" />
     <option name="height" value="777" />
   </component>
@@ -137,16 +140,20 @@
       <workItem from="1597757554800" duration="1607000" />
       <workItem from="1597991105518" duration="1732000" />
       <workItem from="1598012560451" duration="27000" />
+      <workItem from="1598280308029" duration="361000" />
+      <workItem from="1598361989418" duration="341000" />
+      <workItem from="1598618286863" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6994000" />
+    <option name="totallyTimeSpent" value="8209000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1254" height="777" extended-state="0" />
+    <frame x="135" y="56" width="1254" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27062705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2830033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,20 +180,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="157">
+          <caret line="345" column="115" selection-start-line="345" selection-start-column="115" selection-end-line="345" selection-end-column="115" />
         </state>
       </provider>
     </entry>
