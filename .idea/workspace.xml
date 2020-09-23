@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1a6370f-9609-4326-a565-5f76a424f76c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV_ZitongLu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CV/CV_ZitongLu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d1a6370f-9609-4326-a565-5f76a424f76c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="345" column="115" selection-start-line="345" selection-start-column="115" selection-end-line="345" selection-end-column="115" />
+            <state relative-caret-position="172">
+              <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
             </state>
           </provider>
         </entry>
@@ -142,12 +137,12 @@
       <workItem from="1598012560451" duration="27000" />
       <workItem from="1598280308029" duration="361000" />
       <workItem from="1598361989418" duration="341000" />
-      <workItem from="1598618286863" duration="513000" />
+      <workItem from="1598618286863" duration="561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8209000" />
+    <option name="totallyTimeSpent" value="8257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="135" y="56" width="1254" height="777" extended-state="0" />
@@ -183,8 +178,8 @@
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="345" column="115" selection-start-line="345" selection-start-column="115" selection-end-line="345" selection-end-column="115" />
+        <state relative-caret-position="172">
+          <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
         </state>
       </provider>
     </entry>
