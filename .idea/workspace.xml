@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a6370f-9609-4326-a565-5f76a424f76c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/DOBE_draft.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/DOBE_draft.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
-              <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+            <state relative-caret-position="-2198">
+              <caret line="400" column="161" selection-start-line="400" selection-start-column="161" selection-end-line="400" selection-end-column="161" />
               <folding>
                 <element signature="e#15274#15312#0" expanded="true" />
                 <element signature="e#15434#15472#0" expanded="true" />
@@ -147,16 +147,15 @@
       <workItem from="1601043297569" duration="2718000" />
       <workItem from="1601480940486" duration="444000" />
       <workItem from="1602060772190" duration="597000" />
-      <workItem from="1607761141066" duration="913000" />
+      <workItem from="1607761141066" duration="2267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12929000" />
+    <option name="totallyTimeSpent" value="14283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1250" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30132452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,8 +187,8 @@
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+        <state relative-caret-position="-2198">
+          <caret line="400" column="161" selection-start-line="400" selection-start-column="161" selection-end-line="400" selection-end-column="161" />
           <folding>
             <element signature="e#15274#15312#0" expanded="true" />
             <element signature="e#15434#15472#0" expanded="true" />
